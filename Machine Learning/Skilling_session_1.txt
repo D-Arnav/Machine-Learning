@@ -1,0 +1,22 @@
+Skilling Question 1: 
+
+- Design a database of 20 points, L = 2 and M = 1.
+
+- Design a polynomial regression with order P = 1.
+
+- Get optimal modal parameters (where Ew is minimum) using standard least squares method
+
+- Plot the data points and model function
+
+
+
+Skilling Question 2: 
+
+- Use the Data.csv file attached
+
+- Design a polynomial regression with orders P = 1,2,3,4,5,6,7,8,9.
+
+- Consider 80 % of data points for training and 20 % for testing
+
+- Plot the Ew for training and testing data for different orders
+

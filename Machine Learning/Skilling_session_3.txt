@@ -1,0 +1,18 @@
+Skilling Question 7  
+
+- Design a database of 20 points, L = 2 and M = 1.
+
+- Design a pattern mapping task with a single Adaline neuron
+
+- Plot the data points and model function
+
+
+
+Skilling Question 8 : 
+
+- Design a database of 20 points, L = 2 and M = 1.
+
+- Design a pattern classification task with a single Perceptron neuron
+
+- Plot the data points and the decision surface
+

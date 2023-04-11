@@ -1,0 +1,42 @@
+Skilling Question 3 (extension to skill Question 1): 
+
+- Design a database of 20 points, L = 2 and M = 1.
+
+- Design a polynomial regression with order P = 1.
+
+- Get optimal modal parameters (where Ew is minimum) using Stochastic Gradient Descent method
+
+- Plot the data points and model function
+
+
+
+Skilling Question 4 (extension to skill Question 2): 
+
+- Use the Data.csv file attached
+
+- Design a Ridge regression with order P = 9 (where there is an overfitting, when used a polynomial regression)
+
+- Experiment with various tuning parameters lamda
+
+- Consider 80 % of data points for training and 20 % for testing
+
+- Plot the Ew for training and testing data for different values of tuning parameters
+
+
+Skilling Question 5:
+
+- Using your own data implement a two class linear classifier
+
+- Use standard LSM approach
+
+- Plot the data points and the discriminant function
+
+
+Skilling Question 6:
+
+- Using your own data implement a two class linear classifier using the Logistic Regression approach
+
+- Get optimal modal parameters (where Ew is minimum) using Stochastic Gradient Descent method
+
+- Plot the data points and the discriminant function
+

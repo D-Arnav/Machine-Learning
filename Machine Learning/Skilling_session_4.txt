@@ -1,0 +1,16 @@
+Skilling Question 9  
+
+- Design a pattern mapping task using a Multi-layer Feedforward Neural Network which learns the function
+
+ y = cos(x1^2/4 + X2^2/3)
+
+- Plot input values vs hypothesized outputs
+
+
+
+Skilling Question 10 : 
+
+
+- Design a pattern classification task with a Multi-layer Feedforward Neural Network (Multi-layer perceptron)
+
+
